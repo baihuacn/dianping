@@ -478,7 +478,7 @@ This project setup uses [Webpack](https://webpack.js.org/) for handling all asse
 
 ```js
 import React, { Component } from 'react';
-import './Button.css'; // Tell Webpack that Button.js uses these styles
+import styles; // Tell Webpack that Button.js uses these styles
 
 class Button extends Component {
   render() {
@@ -633,12 +633,12 @@ Here is an example:
 
 ```js
 import React from 'react';
-import logo from './logo.png'; // Tell Webpack this JS file uses this image
+import logo from './logo.png'; images
 
 console.log(logo); // /logo.84287d09.png
 
 function Header() {
-  // Import result is the URL of your image
+  images
   return <img src={logo} alt="Logo" />;
 }
 
@@ -704,7 +704,7 @@ render() {
   // Note: this is an escape hatch and should be used sparingly!
   // Normally we recommend using `import` for getting asset URLs
   // as described in “Adding Images and Fonts” above this section.
-  return <img src={process.env.PUBLIC_URL + '/img/logo.png'} />;
+  return <img src={process.env.PUBLIC_URL + imgs} />;
 }
 ```
 

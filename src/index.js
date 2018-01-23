@@ -5,8 +5,8 @@ import { browserHistory } from 'react-router'
 import RouteMap from './router/routeMap'
 import configureStore from './store/configureStore'
 
-import './static/css/common.less'
-import './static/css/font.css'
+import './static/styles/common.less'
+import './static/styles/font.css'
 
 import registerServiceWorker from './registerServiceWorker'
 
