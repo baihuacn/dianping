@@ -1,0 +1,63 @@
+[
+  {
+    "senderId": 111,
+    "senderName": "帅小哥",
+    "senderAvatar": "https://m.maihoujia.com/sfjsodfjsodfj,png",
+    "senderRole": "业主",
+    "senderContent": "鸡丝豆腐司法",
+    "fromId": 11,
+    "createAt": "1分钟前",
+    "likeNum": 2
+  },
+  {
+    "id": 11,
+    "senderId": 222,
+    "senderName": "我提那",
+    "senderAvatar": "https://m.maihoujia.com/sfjsodfjsodfj,png",
+    "senderRole": "业主",
+    "senderContent": "而发生的放送局",
+    "receverId": null,
+    "receverName": null,
+    "recerverContent": null,
+    "createAt": "1分钟前",
+    "likeNum": 2
+  },
+  {
+    "sessionid": "srwerwed84tjfgsjgf"
+  },
+  {
+    "nickName": "白板儿",
+    "avatarUrl": "https://m.maihoujia.com/kfjsofjd9jasdfsdl.png",
+    "userRole": "业主",
+    "certified": 1,
+    "phone": "18782064889",
+    "fansAmt": 3,
+    "followerAmt": 33,
+    "diaryAmt": 4
+  },
+  {
+    "code": "0",
+    "message": "成功",
+    "data": {
+      "nickName": "橙果装饰",
+      "avatar": "https://m.maihoujia.com/kfjsofjd9jasdfsdl.png",
+      "userRole": "服务方",
+      "userType": 1,
+      "boundPhone": "18782064889",
+      "fansAmt": 3,
+      "followerAmt": 33,
+      "diaryAmt": 4,
+      "collectionAmt": 0,
+      "siteAmt": 2,
+      "serviceItem": [
+        "施工",
+        "设计"
+      ],
+      "serviceRegion": [
+        "成都市",
+        "绵阳市"
+      ],
+      "componyName": "成都橙果装饰工程有限公司"
+    }
+  }
+]
